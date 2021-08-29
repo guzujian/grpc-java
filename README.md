@@ -1,7 +1,5 @@
 # grpc-java
 
-# grpc-java
-
 ## pom  
 
 ## proto
